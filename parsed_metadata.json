@@ -1,9 +1,0 @@
-[ {
-  "id" : "1",
-  "name" : "Alice",
-  "metadata" : "{\"role\":\"admin\",\"active\":true}"
-}, {
-  "id" : "2",
-  "name" : "Bob",
-  "metadata" : "{\"role\":\"user\",\"active\":false}"
-} ]
