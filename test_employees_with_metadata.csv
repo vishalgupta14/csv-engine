@@ -1,0 +1,3 @@
+id,name,metadata
+1,Alice,"{""role"":""admin"",""active"":true}"
+2,Bob,"{""role"":""user"",""active"":false}"
